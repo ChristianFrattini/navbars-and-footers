@@ -1,6 +1,4 @@
 import { Button } from "@/components/ui/button";
-import NavBarOne from "./components/NavBarOne";
-import NavBarTwo from "./components/NavBarTwo";
 import Link from "next/link";
 
 export default function Home() {
